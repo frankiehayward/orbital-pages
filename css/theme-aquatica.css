@@ -2341,7 +2341,8 @@ input[type="submit"] {
   color: #fff;
 }
 .photo-form-wrapper {
-  margin-bottom: 200px;
+  margin-top: 5vh;
+  margin-bottom: 10vh;
 }
 .photo-form-wrapper input {
   background: none;
